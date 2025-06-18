@@ -5,7 +5,7 @@ An AlliGator Python Plugin repository should contain at least:
 
 + A Python script (*.py file) containing the function(s) to be called by 
 AlliGator. This script/function(s) should comply with the API as described in 
-AlliGator's `manual page <https://alligator-distribution.readthedocs.io/en/latest/alligator-python-plugins.html>`_
+AlliGator's [manual page](https://alligator-distribution.readthedocs.io/en/latest/alligator-python-plugins.html).
 
 + A license.txt file (the default license is BSD 3-Clause) with the correct 
 copyright holder name and date
